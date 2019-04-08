@@ -1,0 +1,849 @@
+/* 
+   ****************                      ***************
+   ****************  Classes For Margin  ***************
+   ****************                      ***************
+
+
+ */
+
+.ml-1 {
+  margin-left: 8.333% !important;
+}
+
+.ml-2 {
+  margin-left: 16.666% !important;
+}
+
+.ml-3 {
+  margin-left: 24.999% !important;
+}
+
+.ml-4 {
+  margin-left: 33.332% !important;
+}
+
+.ml-5 {
+  margin-left: 41.665% !important;
+}
+
+.ml-6 {
+  margin-left: 49.998% !important;
+}
+
+.ml-7 {
+  margin-left: 58.331% !important;
+}
+
+.ml-8 {
+  margin-left: 66.664% !important;
+}
+
+.ml-9 {
+  margin-left: 74.997% !important;
+}
+
+.ml-10 {
+  margin-left: 83.33% !important;
+}
+
+.ml-11 {
+  margin-left: 91.663% !important;
+}
+
+.ml-12 {
+  margin-left: 99.996% !important;
+}
+
+.mr-1 {
+  margin-right: 8.333% !important;
+}
+
+.mr-2 {
+  margin-right: 16.666% !important;
+}
+
+.mr-3 {
+  margin-right: 24.999% !important;
+}
+
+.mr-4 {
+  margin-right: 33.332% !important;
+}
+
+.mr-5 {
+  margin-right: 41.665% !important;
+}
+
+.mr-6 {
+  margin-right: 49.998% !important;
+}
+
+.mr-7 {
+  margin-right: 58.331% !important;
+}
+
+.mr-8 {
+  margin-right: 66.664% !important;
+}
+
+.mr-9 {
+  margin-right: 74.997% !important;
+}
+
+.mr-10 {
+  margin-right: 83.33% !important;
+}
+
+.mr-11 {
+  margin-right: 91.663% !important;
+}
+
+.mr-12 {
+  margin-right: 99.996% !important;
+}
+
+.mt-1 {
+  margin-top: 8.333% !important;
+}
+
+.mt-2 {
+  margin-top: 16.666% !important;
+}
+
+.mt-3 {
+  margin-top: 24.999% !important;
+}
+
+.mt-4 {
+  margin-top: 33.332% !important;
+}
+
+.mt-5 {
+  margin-top: 41.665% !important;
+}
+
+.mt-6 {
+  margin-top: 49.998% !important;
+}
+
+.mt-7 {
+  margin-top: 58.331% !important;
+}
+
+.mt-8 {
+  margin-top: 66.664% !important;
+}
+
+.mt-9 {
+  margin-top: 74.997% !important;
+}
+
+.mt-10 {
+  margin-top: 83.33% !important;
+}
+
+.mt-11 {
+  margin-top: 91.663% !important;
+}
+
+.mt-12 {
+  margin-top: 99.996% !important;
+}
+
+.mb-1 {
+  margin-bottom: 8.333% !important;
+}
+
+.mb-2 {
+  margin-bottom: 16.666% !important;
+}
+
+.mb-3 {
+  margin-bottom: 24.999% !important;
+}
+
+.mb-4 {
+  margin-bottom: 33.332% !important;
+}
+
+.mb-5 {
+  margin-bottom: 41.665% !important;
+}
+
+.mb-6 {
+  margin-bottom: 49.998% !important;
+}
+
+.mb-7 {
+  margin-bottom: 58.331% !important;
+}
+
+.mb-8 {
+  margin-bottom: 66.664% !important;
+}
+
+.mb-9 {
+  margin-bottom: 74.997% !important;
+}
+
+.mb-10 {
+  margin-bottom: 83.33% !important;
+}
+
+.mb-11 {
+  margin-bottom: 91.663% !important;
+}
+
+.mb-12 {
+  margin-bottom: 99.996% !important;
+}
+
+/* 
+   ****************                      ***************
+   ****************  Classes For padding  ***************
+   ****************                      ***************
+
+
+ */
+
+.pl-1 {
+  margin-left: 12px;
+}
+
+.pl-2 {
+  margin-left: 24px;
+}
+
+.pl-3 {
+  margin-left: 36px;
+}
+
+.pl-4 {
+  margin-left: 48px;
+}
+
+.pl-5 {
+  margin-left: 60px;
+}
+
+.pl-6 {
+  margin-left: 72px;
+}
+
+.pl-7 {
+  margin-left: 84px;
+}
+
+.pl-8 {
+  margin-left: 96px;
+}
+
+.pl-9 {
+  margin-left: 108px;
+}
+
+.pl-10 {
+  margin-left: 120px;
+}
+
+.pl-11 {
+  margin-left: 132px;
+}
+
+.pl-12 {
+  margin-left: 144px;
+}
+
+.pr-1 {
+  margin-right: 12px;
+}
+
+.pr-2 {
+  margin-right: 24px;
+}
+
+.pr-3 {
+  margin-right: 36px;
+}
+
+.pr-4 {
+  margin-right: 48px;
+}
+
+.pr-5 {
+  margin-right: 60px;
+}
+
+.pr-6 {
+  margin-right: 72px;
+}
+
+.pr-7 {
+  margin-right: 84px;
+}
+
+.pr-8 {
+  margin-right: 96px;
+}
+
+.pr-9 {
+  margin-right: 108px;
+}
+
+.pr-10 {
+  margin-right: 120px;
+}
+
+.pr-11 {
+  margin-right: 132px;
+}
+
+.pr-12 {
+  margin-right: 144px;
+}
+
+.pt-1 {
+  margin-top: 12px;
+}
+
+.pt-2 {
+  margin-top: 24px;
+}
+
+.pt-3 {
+  margin-top: 36px;
+}
+
+.pt-4 {
+  margin-top: 48px;
+}
+
+.pt-5 {
+  margin-top: 60px;
+}
+
+.pt-6 {
+  margin-top: 72px;
+}
+
+.pt-7 {
+  margin-top: 84px;
+}
+
+.pt-8 {
+  margin-top: 96px;
+}
+
+.pt-9 {
+  margin-top: 108px;
+}
+
+.pt-10 {
+  margin-top: 120px;
+}
+
+.pt-11 {
+  margin-top: 132px;
+}
+
+.pt-12 {
+  margin-top: 144px;
+}
+
+.pb-1 {
+  margin-bottom: 12px;
+}
+
+.pb-2 {
+  margin-bottom: 24px;
+}
+
+.pb-3 {
+  margin-bottom: 36px;
+}
+
+.pb-4 {
+  margin-bottom: 48px;
+}
+
+.pb-5 {
+  margin-bottom: 60px;
+}
+
+.pb-6 {
+  margin-bottom: 72px;
+}
+
+.pb-7 {
+  margin-bottom: 84px;
+}
+
+.pb-8 {
+  margin-bottom: 96px;
+}
+
+.pb-9 {
+  margin-bottom: 108px;
+}
+
+.pb-10 {
+  margin-bottom: 120px;
+}
+
+.pb-11 {
+  margin-bottom: 132px;
+}
+
+.pb-12 {
+  margin-bottom: 144px;
+}
+
+body {
+  font-family: -webkit-body;
+}
+
+.disabled {
+  background: white !important;
+  color: black !important;
+  border: none !important;
+}
+
+.p {
+  padding: 0px;
+}
+
+.pl {
+  padding-left: 0px;
+}
+
+.m {
+  margin: 0px;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float-right: right;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.allWidth_mins_left_side {
+  margin-left: calc(218px);
+}
+
+.custom_width_for_user,
+.table,
+.box {
+  width: 50%;
+  margin-left: calc(218px + 20px);
+  padding-top: 20px;
+  padding-left: 16px;
+  border-top: 4px solid #3c8dbc;
+}
+
+.appear {
+  display: block;
+  transition: 0.2s ease-in-out;
+}
+
+.hidd {
+  display: none;
+  transition: 0.1s ease-in-out;
+}
+
+.navbar {
+  background: #0f9a65 !important;
+  width: calc(100% - 218px);
+  position: fixed;
+  right: 0px;
+  z-index: 2;
+}
+
+.navbar .col-xs-12 {
+  padding: 0px;
+  margin: 0px;
+}
+
+.navbar ul li {
+  float: left;
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+}
+
+.navbar .col-md-4 {
+  padding: 0px;
+}
+
+.navbar .col-md-4 ul li:first-of-type {
+  font-size: 20px;
+  margin-top: 1px;
+}
+
+.navbar .belong_you:last-of-type {
+  float: right;
+}
+
+.navbar .belong_you ul {
+  padding: 0px;
+  margin: 0px;
+  float: right;
+}
+
+.navbar .belong_you ul li {
+  font-size: 20px;
+  position: relative;
+}
+
+.navbar .belong_you ul li:last-of-type {
+  height: 50px;
+  text-transform: capitalize;
+  margin-top: -3px;
+}
+
+.navbar .belong_you ul li img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.navbar .belong_you ul li span {
+  position: absolute;
+  right: 0px;
+  top: 6px;
+  width: 18px;
+  height: 17px;
+  text-align: center;
+  border-radius: 50%;
+  font-size: 12px;
+  background: red;
+}
+
+.navbar .belong_you ul li .all_messages {
+  position: absloute;
+  width: 400px;
+  border-radius: 8px;
+  position: absolute;
+  transition: all 1s ease-in-out;
+  top: 63px;
+  right: 0px;
+  background: green;
+}
+
+.navbar .belong_you ul li .all_messages h3 {
+  padding-top: 10px;
+  font-family: -webkit-body;
+  text-transform: capitalize;
+  padding-left: 10px;
+}
+
+.navbar .belong_you ul li .all_messages .messages {
+  color: black;
+  overflow: hidden;
+  font-family: -webkit-body;
+}
+
+.navbar .belong_you ul li .all_messages .messages .image {
+  display: inline-block;
+  float: left;
+}
+
+.navbar .belong_you ul li .all_messages .messages .image img {
+  width: 100%;
+  height: 100%;
+}
+
+.navbar .belong_you ul li .all_messages .messages .message {
+  float: left;
+  display: inline-block;
+}
+
+.navbar .belong_you ul li .all_messages .messages .message h4 {
+  text-transform: capitalize;
+  margin: 5px 0px;
+}
+
+.navbar .belong_you .notifcation .notficate {
+  position: absolute;
+  top: 63px;
+  background: green;
+  width: 200px;
+  right: 0px;
+}
+
+.navbar .belong_you .setting {
+  position: absolute;
+  width: 145px;
+  background: black;
+  top: 66px;
+  right: 0px;
+}
+
+.navbar .belong_you .setting ul {
+  width: 100%;
+}
+
+.navbar .belong_you .setting ul li {
+  width: 100%;
+}
+
+.navbar .belong_you .setting ul li:last-of-type {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+}
+
+.navbar .belong_you .setting ul li p {
+  width: 100%;
+  position: absolute;
+  top: 8px;
+  left: 42px;
+  text-transform: capitalize;
+  margin-top: 6px;
+  font-size: 16px;
+}
+
+.navbar .belong_you .setting ul li a {
+  color: yellow;
+}
+
+.left_side {
+  width: 218px;
+  overflow-y: scroll;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  background: green;
+}
+
+.left_side .admin_header h3 {
+  color: white;
+  text-align: center;
+  font-weight: 100;
+  font-family: cursive;
+  border-bottom: 1px solid;
+  padding: 21px;
+}
+
+.left_side .admin_function ul li {
+  padding: 12px;
+  font-size: 18px;
+  font-weight: 100;
+  font-family: -webkit-body;
+  cursor: pointer;
+}
+
+.left_side .admin_function ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+.left_side .admin_function ul li span {
+  text-transform: capitalize;
+}
+
+.li_belong_sub_ul,
+.left_side .admin_function .customer ul li,
+.left_side .admin_function .category ul li {
+  padding: 5px 45px;
+  text-transform: capitalize;
+}
+
+.bread {
+  padding-top: 77px;
+  width: calc(100% - 218px );
+  margin-left: auto;
+}
+
+.box {
+  padding: 0px;
+}
+
+.box .form-group {
+  overflow: hidden;
+}
+
+.box .form-group .alert-danger {
+  padding: 5px;
+  margin-top: 10px;
+  text-transform: capitalize;
+}
+
+.box .box-header {
+  padding: 15px;
+}
+
+.box form .row .list-group {
+  display: block;
+}
+
+.box form .row .list-group .list-group-item {
+  border: none;
+  padding: 3px;
+}
+
+.box form .row .list-group > a {
+  width: calc(100% / 6);
+  display: inline-block;
+  float: left;
+  text-align: center;
+}
+
+.box form .row .list-group > a:first-of-type {
+  text-align: start;
+}
+
+.box form .tab-content .tab-pane {
+  background-color: #fafafb;
+  border-radius: 4px;
+  overflow: hidden;
+  padding: 9px;
+  margin: 10px 0px;
+}
+
+.box form .tab-content .tab-pane .check_box > div {
+  margin-top: 10px;
+  display: inline-block;
+  width: calc(100% / 6);
+  float: left;
+}
+
+.box form .tab-content .tab-pane .check_box > div label {
+  text-transform: capitalize;
+}
+
+.table {
+  width: 82%;
+  font-family: -webkit-body;
+  font-weight: 100;
+}
+
+.table thead tr th {
+  font-size: 22px;
+  font-family: -webkit-body;
+  font-weight: 100;
+  text-transform: capitalize;
+}
+
+.table thead tr th:last-of-type {
+  padding-left: 10px;
+  text-transform: capitalize;
+}
+
+.table tbody tr td {
+  text-transform: capitalize;
+}
+
+.table tbody tr td form {
+  display: inline-block;
+}
+
+.box-primary {
+  font-family: -webkit-body;
+}
+
+.box-primary form .box-body .contain {
+  border-radius: 6px;
+  background: #ececec;
+  padding: 5px;
+  margin-bottom: 18px;
+  padding-top: 18px;
+}
+
+.box-primary form .box-body .title_father {
+  margin-bottom: 0px;
+}
+
+.box-primary form .box-body .form-group .title_son {
+  padding-left: 3px;
+  font-size: 24px;
+  margin-bottom: 0px;
+}
+
+.box-primary form .box-body .form-group .category {
+  width: 100%;
+  text-transform: capitalize;
+  outline: none;
+  padding: 8px;
+  font-family: -webkit-body;
+  border-radius: 6px;
+}
+
+.box-primary form .box-body .form-group textarea {
+  padding-top: 9px;
+  font-size: 20px;
+  outline: none;
+}
+
+.box_order {
+  width: 80%;
+}
+
+.box_order .right {
+  float: right;
+  margin-top: 5px;
+}
+
+.box_order .right .row .list-group a {
+  margin-bottom: 5px;
+}
+
+.box_order .right table {
+  margin: auto;
+  background: darkslategray;
+  color: white;
+  width: 100%;
+  margin-bottom: 4px;
+}
+
+.box_order .right table th,
+.box_order .right table td {
+  width: 23.33%;
+  font-weight: 100;
+  font-size: 18px;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.box_order .right table th:first-of-type {
+  width: 30%;
+}
+
+.box_order .left {
+  width: 50%;
+  float: left;
+}
+
+.box_order .left h4 {
+  text-align: center;
+  text-transform: capitalize;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.box_order .left table {
+  width: 100%;
+  margin: 0px;
+  border-top: none;
+}
+
+.box_order .left table th,
+.box_order .left table td {
+  font-weight: 100;
+  font-size: 18px;
+  text-align: center;
+  text-transform: capitalize;
+  width: 25%;
+}
+
+.box_order .left table th input,
+.box_order .left table td input {
+  width: 100%;
+}
+

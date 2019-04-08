@@ -1,0 +1,85 @@
+@import 'variables_for_dashboard';
+
+ /* 
+   ****************                      ***************
+   ****************  Classes For Margin  ***************
+   ****************                      ***************
+
+
+ */
+
+
+// this for create class for margin left
+@for $i from 1 to 13{
+  .ml-#{$i}{
+  	margin-left: $spacer * $i !important;
+  }
+
+}
+
+// this for create class for margin right: 
+@for $i from 1 to 13{
+  .mr-#{$i}{
+  	margin-right: $spacer * $i !important;
+  }
+
+}
+// this for create class for margin top
+@for $i from 1 to 13{
+  .mt-#{$i}{
+  	margin-top: $spacer * $i !important;
+  }
+
+}
+
+// this for create class for margin bottom
+@for $i from 1 to 13{
+  .mb-#{$i}{
+  	margin-bottom: $spacer * $i !important;
+  }
+
+}
+
+
+ /* 
+   ****************                      ***************
+   ****************  Classes For padding  ***************
+   ****************                      ***************
+
+
+ */
+
+
+// this for create class for Padding left
+@for $i from 1 to 13{
+  .pl-#{$i}{
+  	margin-left: $spacer_padding * $i;
+  }
+
+}
+
+// this for create class for Padding right: 
+@for $i from 1 to 13{
+  .pr-#{$i}{
+  	margin-right: $spacer_padding * $i;
+  }
+
+}
+// this for create class for Padding top
+@for $i from 1 to 13{
+  .pt-#{$i}{
+  	margin-top: $spacer_padding * $i;
+  }
+
+}
+
+// this for create class for Padding  bottom
+@for $i from 1 to 13{
+  .pb-#{$i}{
+  	margin-bottom: $spacer_padding * $i;
+  }
+
+}
+
+
+
